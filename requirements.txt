@@ -1,6 +1,12 @@
-pandas
-pillow
+pandas == 3.0.5
 scikit-learn
 seaborn
 matplotlib
 numpy
+ImageHash 
+Pillow
+torchvision
+tensorflow
+Keras
+torch
+transformers
